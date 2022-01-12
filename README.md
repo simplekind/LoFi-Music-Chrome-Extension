@@ -1,7 +1,5 @@
 
-<!-- ![Logo](https://raw.githubusercontent.com/simplekind/Flash-Read/master/img/android-chrome-192x192.png) -->
-
-#
+![Logo](https://raw.githubusercontent.com/simplekind/LoFi-Music-Chrome-Extension/master/logo.png)
 
 # The LoFi-Music-Chrome-Extension
 
@@ -24,13 +22,13 @@ Enjoy your time by chilling with some  lofi music(trust me they are the best)!
 
 ## Usage Preview
 
-<!-- ![Preview](https://github.com/simplekind/Flash-Read/blob/master/img/FlashRead.gif?raw=true) -->
+![Preview](https://raw.githubusercontent.com/simplekind/LoFi-Music-Chrome-Extension/master/img/Preview.png)
 
 ## Features 
 
 - Plays out of 16 Random Lofi Music
 - Pause that Lofi Music and starts new one
-- Background Images for great vibes
+- Different sveral Background Images for great vibes
 
 ## Built with
 - HTML
