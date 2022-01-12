@@ -1,0 +1,18 @@
+{
+    "name":"LoFi Music Player",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "description":"Sit Back . Relax . and Enjoy the music !",
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default-icon":"logo.png"
+    },
+    "background":{
+        "page":"background.html",
+        "persistent":true
+    },
+    "icons":{
+        "128":"logo.png"
+    },
+    "permissions":["activeTab"]
+}
