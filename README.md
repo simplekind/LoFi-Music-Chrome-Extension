@@ -22,7 +22,7 @@ Enjoy your time by chilling with some  lofi music(trust me they are the best)!
 
 ## Usage Preview
 
-![Preview](https://raw.githubusercontent.com/simplekind/LoFi-Music-Chrome-Extension/master/img/Preview.png)
+![Preview](https://raw.githubusercontent.com/simplekind/LoFi-Music-Chrome-Extension/master/img/Preview.gif)
 
 ## Features 
 
